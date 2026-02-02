@@ -66,7 +66,7 @@ This project was developed as part of an **internship task** to demonstrate data
 
 ---
 
-## ▶️ How to Run the Project
-1. Clone this repository:
-   ```bash
-   git clone <your-github-repo-link>
+👩‍💻 Author
+
+Vishnu Dharshini A
+Unemployment analysis in India
